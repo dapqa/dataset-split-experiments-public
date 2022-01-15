@@ -1,0 +1,8 @@
+git+https://github.com/dapqa/dapqa-recsys-utils.git
+git+https://github.com/dapqa/dapqa-fast-mf.git@v0.0.1
+
+jupyter
+matplotlib
+seaborn
+bayesian-optimization
+pandas == 1.3.5
